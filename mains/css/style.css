@@ -1,0 +1,31 @@
+header .menu {
+	background-color: #343A40;
+	color: #fff;
+}
+
+header a {
+	text-decoration: none;
+	color: #676C71;
+}
+
+a:hover {
+	color: #fff;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+}
+
+.text {
+	text-align: center;
+	background-image: url(../img/header.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #FFF;
+	font-size: 2.5em;
+	height: 17em;
+	outline: 1px solid red;
+	filter: contrast(50%);
+	text-shadow: 1px 2px #999;
+}
